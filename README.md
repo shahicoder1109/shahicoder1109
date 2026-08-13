@@ -7,7 +7,7 @@
   <a href="https://shohiweb.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2e000f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://t.me/feloriao9" target="_blank">
+  <a href="@Shohiweb" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-3b0016?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/shohi_web" target="_blank">
