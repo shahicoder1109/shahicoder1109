@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-<p align="center">
   <a href="https://shohiweb.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2e000f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="@Shohiweb" target="_blank">
+  <a href="https://t.me/Shohiweb" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-3b0016?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/shohi_web" target="_blank">
@@ -16,7 +15,6 @@
   <a href="tel:+998952571958">
     <img src="https://img.shields.io/badge/Telefon-220413?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
 </p>
 
 <p align="center">
@@ -31,7 +29,7 @@
   💻 <b>Soha:</b> Frontend Web Development <br>
   🛠️ <b>Fokus:</b> React.js, Global State (<code>Redux Toolkit</code>), optimallashgan <code>Custom Hooks</code> va animatsiyalar <br>
   🌐 <b>Full-Stack Imkoniyat:</b> <code>Firebase</code> (Auth, Firestore, Hosting) ekotizimi bilan to'liq loyihalar <br>
-  🎯 <b>Maqsam:</b> Mukammal va foydalanuvchiga yoqadigan interfeyslar qurish <br>
+  🎯 <b>Maqsad:</b> Mukammal va foydalanuvchiga yoqadigan interfeyslar qurish <br>
   📍 <b>Joylashuv:</b> Bekobod, Toshkent viloyati, O'zbekiston <br>
   🌱 <b>Hozir o'rganayapman:</b> Next.js, TypeScript (advanced) <br>
   ⚡ <b>Qiziqarli fakt:</b> 14 yoshda 20+ professional darajadagi loyiha yaratdim!
@@ -107,10 +105,6 @@
 
 ---
 
-
-
----
-
 <h3 align="center">📊 GitHub Statistikalar</h3>
 
 <p align="center">
@@ -142,7 +136,7 @@
   <a href="https://shohiweb.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2e000f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://t.me/feloriao9" target="_blank">
+  <a href="https://t.me/Shohiweb" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-3b0016?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/shohi_web" target="_blank">
